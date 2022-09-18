@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1> 🍊 <font size="5"> Hi! Here,  <font color="blue">Fun Coding Sea</font> 🍋 </h1>
+
+
 
 <!--
 **kbaek57/kbaek57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
